@@ -1,0 +1,4 @@
+name: Portals
+version: '${project.version}'
+main: net.andrewcpu.portals.Portals
+api-version: 1.19
